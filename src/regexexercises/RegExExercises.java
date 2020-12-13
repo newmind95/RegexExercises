@@ -1,7 +1,5 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ Ny Name is Kristiyan Penev, Born 1995
  */
 package regexexercises;
 
@@ -10,7 +8,7 @@ import java.util.regex.Pattern;
 
 /**
  *
- * @author PC
+ * @author newmind95
  */
 public class RegExExercises {
 
